@@ -1,6 +1,6 @@
 ## Pump.fun Solana Trading and Sniping Bot
 
-Copyright © Diveinprogramming
+Copyright © adelealas
 
 ![Running Bot](bot.png)
 
@@ -15,7 +15,7 @@ Copyright © Diveinprogramming
 5 Support if you want 
 
 
-Welcome to the Pump.fun Zero Fee Solana Trading Bot! This tool, developed by Diveinprogramming, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
+Welcome to the Pump.fun Zero Fee Solana Trading Bot! This tool, developed by adelealas, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
 
 ## Overview
 
@@ -42,7 +42,7 @@ The Solana Trading Bot helps you trade tokens on the Pump.fun on Solana blockcha
 ## Installation
 
 1. **Download zip from repository**:
-   git clone  https://github.com/Diveinprogramming/pumpfun-sniping-bot.git
+   git clone  https://github.com/adelealas/pumpfun-sniping-bot.git
    
    cd solana-trading-bot
 
@@ -86,7 +86,7 @@ If you find this tool useful, please consider supporting the developer. Donation
 
 ## About
 
-This tool is developed by Diveinprogramming. It is designed to help traders effectively manage their trades on the Solana blockchain, especially for new token launches on pump.fun. The bot keeps moon bags and times trades efficiently to maximize profits and minimize losses.
+This tool is developed by adelealas. It is designed to help traders effectively manage their trades on the Solana blockchain, especially for new token launches on pump.fun. The bot keeps moon bags and times trades efficiently to maximize profits and minimize losses.
 
 ## keywords
 pump.fun | pumpfun | pump-fun | trading | sniping | snipper | jito tip | jito bundle | auto buy sell | low fees | bot | solana | secure | audit | sniper | pumpfun-bot |  web scraper | 100x | github | telegarm | copy trading | insider wallet |  moonshot bot |  make money | buy tracker bot | micro buy | memecoin | meme coins | pump dump |  ai bot | 
@@ -97,4 +97,4 @@ Use this tool at your own risk. Trading cryptocurrencies involves significant ri
 
 Thank you for using the Solana Trading Bot! Happy trading!
 
-Diveinprogramming
+adelealas

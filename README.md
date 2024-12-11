@@ -19,7 +19,7 @@ Welcome to the Pump.fun Zero Fee Solana Trading Bot! This tool, developed by ade
 
 ## Overview
 
-The Solana Trading Bot helps you trade tokens on the Pump.fun on Solana blockchain based on bonding curves and market cap changes. The bot scrapes data to identify new tokens with favorable bonding curves, monitors market cap changes, and makes decisions on when to sell to maximize profits.
+The Solana Trading Bot helps you trade tokens on the Pump.fun on Solana blockchain based on bonding curves and market cap changes. The bot scrapes data to identify new tokens with favorable bonding curves, monitors market cap changes, and makes decisions on when to sell to maximize profit.
 
 ## Trading Strategy
 

@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.95.8",
+    "axios": "^1.7.9",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.9.16",
+    "selenium-webdriver": "^4.27.0"
+  }
+}

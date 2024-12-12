@@ -206,6 +206,7 @@ const scrapeTokenInfo = async (contractAddress) => {
       extractText(pageSource, "bonding curve progress").replace("%", "")
     );
 
+    
     updateLog(`\nTicker: ${ticker}`);
     updateLog(`Market Cap: $${marketcap}`);
     updateLog(`Bonding Curve Progress: ${bondingCurve}%`);

@@ -15,7 +15,7 @@ Copyright © adelealas
 5 Support if you want 
 
 
-Welcome to the Pump.fun Zero Fee Solana Trading Bot! This tool, developed by adelealas, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
+Welcome to the Pump.fun 0 Fee Solana Trading Bot! This tool, developed by adelealas, is designed for trading and sniping new token launches on pump.fun. It includes strategies for buying and selling tokens based on market cap changes and bonding curve progress.
 
 ## Overview
 
